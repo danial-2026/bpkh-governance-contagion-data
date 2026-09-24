@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this research toolkit, please cite it as follows."
+title: "BPKH Governance Contagion Research Toolkit"
+version: "1.0.1"
+date-released: 2026-09-24
+type: software
+abstract: >-
+  Research toolkit supporting the study "Detecting Governance Contagion:
+  AI-Based Risk Intelligence for BPKH Hajj Fund Management." The toolkit
+  provides the research methodology, analytical scripts, derived datasets,
+  governance-risk taxonomy, network and temporal analysis outputs, Early
+  Warning System framework, governance intelligence architecture, and
+  Progressive Web App interface. The analytical study uses a news-only corpus
+  covering 1 January 2024 to 3 September 2026, consisting of 561 final
+  analytical news documents from eight Indonesian news outlets. The framework
+  applies guided semantic risk mapping, Governance Contagion Index (GCI),
+  governance-risk network analysis, Network Contagion Index (NCI), temporal
+  and lead-lag analysis, unsupervised anomaly detection, and an AI-assisted
+  Early Warning System. The indicators are research and decision-support
+  signals and do not represent official BPKH risk ratings, corruption
+  probabilities, causal estimates, or determinations of misconduct.
+authors:
+  - given-names: "Danial Muhammad"
+    family-names: "Wirdyansyah"
+keywords:
+  - "BPKH"
+  - "Hajj finance"
+  - "Hajj fund management"
+  - "governance contagion"
+  - "governance risk"
+  - "risk intelligence"
+  - "early warning system"
+  - "artificial intelligence"
+  - "text analytics"
+  - "public trust"
+  - "reputation risk"
+  - "Indonesia"
+repository-code: "https://github.com/danial-2026/bpkh-governance-contagion-data"
+url: "https://github.com/danial-2026/bpkh-governance-contagion-data/releases/tag/v1.0.1"
