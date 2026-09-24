@@ -1,0 +1,14 @@
+{
+  "dataset_id": "bpkh-governance-contagion",
+  "dataset_version": "2026.09.03",
+  "schema_version": "1.0",
+  "status": "research_snapshot",
+  "analytical_status": "frozen",
+  "observation_start": "2024-01-01",
+  "observation_end": "2026-09-03",
+  "last_updated": "2026-09-03",
+  "source_label": "BPKH Governance Contagion Research",
+  "dataset_path": "/data/releases/2026.09.03/pwa_data.json",
+  "fallback_path": "/data/pwa_data.json",
+  "notes": "Versioned research snapshot for the frozen PWA v0.4 data layer. The dashboard is analytical decision-support and not an official BPKH risk rating."
+}
