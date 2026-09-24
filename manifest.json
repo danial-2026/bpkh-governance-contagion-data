@@ -1,15 +1,15 @@
 {
   "dataset_id": "bpkh-governance-contagion",
-  "dataset_version": "2026.09.24-DEMO",
+  "dataset_version": "2026.09.03",
   "schema_version": "1.0",
-  "status": "research_demo",
-  "analytical_status": "synthetic_demo",
+  "status": "research_snapshot",
+  "analytical_status": "frozen",
   "observation_start": "2024-01-01",
   "observation_end": "2026-09-03",
-  "last_updated": "2026-09-24",
-  "source_label": "BPKH Governance Contagion Research — Synthetic Demo",
-  "dataset_path": "releases/2026.09.24-DEMO/pwa_data.json",
+  "last_updated": "2026-09-03",
+  "source_label": "BPKH Governance Contagion Research",
+  "dataset_path": "releases/2026.09.03/pwa_data.json",
   "fallback_path": "pwa_data.json",
-  "notes": "Synthetic demonstration release for testing remote dataset updates. Not research output.",
-  "release_path": "releases/2026.09.24-DEMO/"
-} 
+  "notes": "Versioned research snapshot for the frozen PWA v0.3 data layer. The dashboard is analytical decision-support and not an official BPKH risk rating.",
+  "release_path": "releases/2026.09.03/"
+}
