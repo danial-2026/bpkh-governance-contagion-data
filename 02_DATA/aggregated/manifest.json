@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "data_layer_version": "1.0",
+  "research_snapshot": "2024-01 to 2026-09",
+  "generated_from": {
+    "monthly_ews": "9. monthly_nci_temporal_ews_gcr.csv",
+    "risk_dimensions": "2b. risk_dimension_profile(2).csv",
+    "network_edges": "01_network_edges.csv",
+    "network_nodes": "03_node_nci.csv",
+    "contagion_events": "4. top_contagion_events(2).csv",
+    "lag_analysis": "5. lag_analysis(2).csv"
+  },
+  "row_counts": {
+    "monthly_ews": 33,
+    "risk_dimensions": 7,
+    "network_nodes": 6,
+    "network_edges": 9,
+    "contagion_events": 20,
+    "lag_analysis": 12
+  },
+  "notes": [
+    "Normalized copies only; analytical values were not recalculated.",
+    "monthly_ews is the source of truth for monthly NCI, anomaly, EWS and GCR in PWA v1.",
+    "The legacy risk-environment figure is not added to the PWA data layer until its exact analytical source is resolved."
+  ]
+}

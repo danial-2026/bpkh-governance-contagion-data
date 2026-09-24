@@ -1,0 +1,10 @@
+source,target,cooccurrence_count,cooccurrence_rate,association_strength
+Corruption_Investigation,Public_Trust_Reputation,47,0.083779,1.634555
+BPKH_Governance,Public_Trust_Reputation,175,0.311943,1.584055
+BPKH_Governance,Corruption_Investigation,33,0.058824,1.483057
+Public_Trust_Reputation,Quota_Governance,127,0.226381,1.27795
+Hajj_Fund_Management,Quota_Governance,192,0.342246,1.065812
+Hajj_Fund_Management,Public_Trust_Reputation,274,0.488414,1.058789
+BPKH_Governance,Hajj_Fund_Management,209,0.372549,1.043633
+BPKH_Governance,Quota_Governance,78,0.139037,1.014255
+Corruption_Investigation,Hajj_Fund_Management,47,0.083779,0.901713

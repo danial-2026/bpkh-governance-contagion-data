@@ -1,0 +1,7 @@
+node,label,centrality_score,crisis_edge_strength,trust_edge_strength,betweenness_centrality,crisis_edge_norm,trust_edge_norm,betweenness_norm,NCI,BPKH_Network_Node,Bridge_Candidate
+BPKH_Governance,BPKH Governance,0.333333,1.483057,1.584055,0.033333,0.907316,0.969105,1.0,0.966016,1,1
+Hajj_Fund_Management,Hajj Fund Management,0.333333,1.065812,1.058789,0.033333,0.65205,0.647754,1.0,0.825166,1,1
+Public_Trust_Reputation,Public Trust / Reputation,0.333333,1.634555,0.0,0.033333,1.0,0.0,1.0,0.8,0,0
+Corruption_Investigation,Corruption / Investigation,0.24,0.0,1.634555,0.0,0.0,1.0,0.0,0.416,0,0
+Quota_Governance,Quota Governance,0.24,0.0,1.27795,0.0,0.0,0.781834,0.0,0.372367,0,0
+Governance_Oversight,Governance Oversight,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0

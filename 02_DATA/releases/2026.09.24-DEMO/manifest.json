@@ -1,0 +1,14 @@
+{
+  "dataset_id": "bpkh-governance-contagion",
+  "dataset_version": "2026.09.24-DEMO",
+  "schema_version": "1.0",
+  "status": "demo_test",
+  "analytical_status": "synthetic_demo",
+  "observation_start": "2024-01-01",
+  "observation_end": "2026-09-03",
+  "last_updated": "2026-09-24",
+  "source_label": "BPKH Governance Contagion Research — synthetic update test",
+  "dataset_path": "/data/releases/2026.09.24-DEMO/pwa_data.json",
+  "fallback_path": "/data/pwa_data.json",
+  "notes": "Synthetic test release only. The 2026-09 monthly EWS/GCR/NCI/anomaly values were intentionally altered to demonstrate remote dataset updating. Do not cite or use this release as research results."
+}

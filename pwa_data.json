@@ -1,0 +1,804 @@
+{
+  "monthly_ews": [
+    {
+      "month": "2024-01",
+      "nci": 0.305,
+      "anomaly_score": 0.697,
+      "ews": 0.383,
+      "ews_level": "GREEN",
+      "gcr": 0.364,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2024-02",
+      "nci": 0.917,
+      "anomaly_score": 0.97,
+      "ews": 0.927,
+      "ews_level": "RED",
+      "gcr": 0.925,
+      "gcr_level": "RED"
+    },
+    {
+      "month": "2024-03",
+      "nci": 0.0,
+      "anomaly_score": 1.0,
+      "ews": 0.2,
+      "ews_level": "GREEN",
+      "gcr": 0.15,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2024-04",
+      "nci": 0.569,
+      "anomaly_score": 0.879,
+      "ews": 0.631,
+      "ews_level": "RED",
+      "gcr": 0.615,
+      "gcr_level": "YELLOW"
+    },
+    {
+      "month": "2024-05",
+      "nci": 0.917,
+      "anomaly_score": 0.939,
+      "ews": 0.921,
+      "ews_level": "RED",
+      "gcr": 0.92,
+      "gcr_level": "RED"
+    },
+    {
+      "month": "2024-06",
+      "nci": 0.536,
+      "anomaly_score": 0.636,
+      "ews": 0.556,
+      "ews_level": "GREEN",
+      "gcr": 0.551,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2024-07",
+      "nci": 0.562,
+      "anomaly_score": 0.364,
+      "ews": 0.523,
+      "ews_level": "GREEN",
+      "gcr": 0.533,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2024-08",
+      "nci": 0.591,
+      "anomaly_score": 0.303,
+      "ews": 0.533,
+      "ews_level": "GREEN",
+      "gcr": 0.548,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2024-09",
+      "nci": 0.681,
+      "anomaly_score": 0.424,
+      "ews": 0.629,
+      "ews_level": "YELLOW",
+      "gcr": 0.642,
+      "gcr_level": "RED"
+    },
+    {
+      "month": "2024-10",
+      "nci": 0.368,
+      "anomaly_score": 0.455,
+      "ews": 0.386,
+      "ews_level": "GREEN",
+      "gcr": 0.381,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2024-11",
+      "nci": 0.157,
+      "anomaly_score": 0.909,
+      "ews": 0.307,
+      "ews_level": "GREEN",
+      "gcr": 0.27,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2024-12",
+      "nci": 0.469,
+      "anomaly_score": 0.606,
+      "ews": 0.496,
+      "ews_level": "GREEN",
+      "gcr": 0.49,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-01",
+      "nci": 0.352,
+      "anomaly_score": 0.848,
+      "ews": 0.452,
+      "ews_level": "GREEN",
+      "gcr": 0.427,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-02",
+      "nci": 0.375,
+      "anomaly_score": 0.242,
+      "ews": 0.349,
+      "ews_level": "GREEN",
+      "gcr": 0.355,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-03",
+      "nci": 0.588,
+      "anomaly_score": 0.576,
+      "ews": 0.586,
+      "ews_level": "YELLOW",
+      "gcr": 0.586,
+      "gcr_level": "YELLOW"
+    },
+    {
+      "month": "2025-04",
+      "nci": 0.416,
+      "anomaly_score": 0.182,
+      "ews": 0.369,
+      "ews_level": "GREEN",
+      "gcr": 0.381,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-05",
+      "nci": 0.246,
+      "anomaly_score": 0.818,
+      "ews": 0.36,
+      "ews_level": "GREEN",
+      "gcr": 0.331,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-06",
+      "nci": 0.44,
+      "anomaly_score": 0.667,
+      "ews": 0.485,
+      "ews_level": "GREEN",
+      "gcr": 0.474,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-07",
+      "nci": 0.606,
+      "anomaly_score": 0.273,
+      "ews": 0.54,
+      "ews_level": "GREEN",
+      "gcr": 0.556,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-08",
+      "nci": 0.594,
+      "anomaly_score": 0.152,
+      "ews": 0.506,
+      "ews_level": "GREEN",
+      "gcr": 0.528,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-09",
+      "nci": 0.48,
+      "anomaly_score": 0.212,
+      "ews": 0.426,
+      "ews_level": "GREEN",
+      "gcr": 0.44,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-10",
+      "nci": 0.39,
+      "anomaly_score": 0.515,
+      "ews": 0.415,
+      "ews_level": "GREEN",
+      "gcr": 0.409,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2025-11",
+      "nci": 0.603,
+      "anomaly_score": 0.727,
+      "ews": 0.628,
+      "ews_level": "YELLOW",
+      "gcr": 0.622,
+      "gcr_level": "YELLOW"
+    },
+    {
+      "month": "2025-12",
+      "nci": 0.593,
+      "anomaly_score": 0.485,
+      "ews": 0.572,
+      "ews_level": "YELLOW",
+      "gcr": 0.577,
+      "gcr_level": "YELLOW"
+    },
+    {
+      "month": "2026-01",
+      "nci": 0.633,
+      "anomaly_score": 0.121,
+      "ews": 0.531,
+      "ews_level": "GREEN",
+      "gcr": 0.556,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2026-02",
+      "nci": 0.651,
+      "anomaly_score": 0.394,
+      "ews": 0.6,
+      "ews_level": "YELLOW",
+      "gcr": 0.612,
+      "gcr_level": "YELLOW"
+    },
+    {
+      "month": "2026-03",
+      "nci": 0.679,
+      "anomaly_score": 0.788,
+      "ews": 0.701,
+      "ews_level": "RED",
+      "gcr": 0.695,
+      "gcr_level": "RED"
+    },
+    {
+      "month": "2026-04",
+      "nci": 0.482,
+      "anomaly_score": 0.333,
+      "ews": 0.453,
+      "ews_level": "GREEN",
+      "gcr": 0.46,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2026-05",
+      "nci": 0.573,
+      "anomaly_score": 0.061,
+      "ews": 0.471,
+      "ews_level": "GREEN",
+      "gcr": 0.496,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2026-06",
+      "nci": 0.55,
+      "anomaly_score": 0.091,
+      "ews": 0.458,
+      "ews_level": "GREEN",
+      "gcr": 0.481,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2026-07",
+      "nci": 0.555,
+      "anomaly_score": 0.03,
+      "ews": 0.45,
+      "ews_level": "GREEN",
+      "gcr": 0.476,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2026-08",
+      "nci": 0.374,
+      "anomaly_score": 0.545,
+      "ews": 0.408,
+      "ews_level": "GREEN",
+      "gcr": 0.4,
+      "gcr_level": "GREEN"
+    },
+    {
+      "month": "2026-09",
+      "nci": 0.381,
+      "anomaly_score": 0.758,
+      "ews": 0.456,
+      "ews_level": "GREEN",
+      "gcr": 0.437,
+      "gcr_level": "GREEN"
+    }
+  ],
+  "risk_dimensions": [
+    {
+      "dimension": "Quota_Governance",
+      "documents": 197,
+      "prevalence_pct": 35.12,
+      "mean_score": 0.2556
+    },
+    {
+      "dimension": "Corruption_Investigation",
+      "documents": 57,
+      "prevalence_pct": 10.16,
+      "mean_score": 0.3247
+    },
+    {
+      "dimension": "Governance_Oversight",
+      "documents": 9,
+      "prevalence_pct": 1.6,
+      "mean_score": 0.4493
+    },
+    {
+      "dimension": "BPKH_Governance",
+      "documents": 219,
+      "prevalence_pct": 39.04,
+      "mean_score": 0.3122
+    },
+    {
+      "dimension": "Hajj_Fund_Management",
+      "documents": 513,
+      "prevalence_pct": 91.44,
+      "mean_score": 0.2503
+    },
+    {
+      "dimension": "Public_Trust_Reputation",
+      "documents": 283,
+      "prevalence_pct": 50.45,
+      "mean_score": 0.2971
+    },
+    {
+      "dimension": "Clarification_Response",
+      "documents": 34,
+      "prevalence_pct": 6.06,
+      "mean_score": 0.3508
+    }
+  ],
+  "network_nodes": [
+    {
+      "node": "BPKH_Governance",
+      "label": "BPKH Governance",
+      "centrality_score": 0.333333,
+      "crisis_edge_strength": 1.483057,
+      "trust_edge_strength": 1.584055,
+      "betweenness_centrality": 0.033333,
+      "crisis_edge_norm": 0.907316,
+      "trust_edge_norm": 0.969105,
+      "betweenness_norm": 1.0,
+      "NCI": 0.966016,
+      "BPKH_Network_Node": 1,
+      "Bridge_Candidate": 1
+    },
+    {
+      "node": "Hajj_Fund_Management",
+      "label": "Hajj Fund Management",
+      "centrality_score": 0.333333,
+      "crisis_edge_strength": 1.065812,
+      "trust_edge_strength": 1.058789,
+      "betweenness_centrality": 0.033333,
+      "crisis_edge_norm": 0.65205,
+      "trust_edge_norm": 0.647754,
+      "betweenness_norm": 1.0,
+      "NCI": 0.825166,
+      "BPKH_Network_Node": 1,
+      "Bridge_Candidate": 1
+    },
+    {
+      "node": "Public_Trust_Reputation",
+      "label": "Public Trust / Reputation",
+      "centrality_score": 0.333333,
+      "crisis_edge_strength": 1.634555,
+      "trust_edge_strength": 0.0,
+      "betweenness_centrality": 0.033333,
+      "crisis_edge_norm": 1.0,
+      "trust_edge_norm": 0.0,
+      "betweenness_norm": 1.0,
+      "NCI": 0.8,
+      "BPKH_Network_Node": 0,
+      "Bridge_Candidate": 0
+    },
+    {
+      "node": "Corruption_Investigation",
+      "label": "Corruption / Investigation",
+      "centrality_score": 0.24,
+      "crisis_edge_strength": 0.0,
+      "trust_edge_strength": 1.634555,
+      "betweenness_centrality": 0.0,
+      "crisis_edge_norm": 0.0,
+      "trust_edge_norm": 1.0,
+      "betweenness_norm": 0.0,
+      "NCI": 0.416,
+      "BPKH_Network_Node": 0,
+      "Bridge_Candidate": 0
+    },
+    {
+      "node": "Quota_Governance",
+      "label": "Quota Governance",
+      "centrality_score": 0.24,
+      "crisis_edge_strength": 0.0,
+      "trust_edge_strength": 1.27795,
+      "betweenness_centrality": 0.0,
+      "crisis_edge_norm": 0.0,
+      "trust_edge_norm": 0.781834,
+      "betweenness_norm": 0.0,
+      "NCI": 0.372367,
+      "BPKH_Network_Node": 0,
+      "Bridge_Candidate": 0
+    },
+    {
+      "node": "Governance_Oversight",
+      "label": "Governance Oversight",
+      "centrality_score": 0.0,
+      "crisis_edge_strength": 0.0,
+      "trust_edge_strength": 0.0,
+      "betweenness_centrality": 0.0,
+      "crisis_edge_norm": 0.0,
+      "trust_edge_norm": 0.0,
+      "betweenness_norm": 0.0,
+      "NCI": 0.0,
+      "BPKH_Network_Node": 0,
+      "Bridge_Candidate": 0
+    }
+  ],
+  "network_edges": [
+    {
+      "source": "Corruption_Investigation",
+      "target": "Public_Trust_Reputation",
+      "cooccurrence_count": 47,
+      "cooccurrence_rate": 0.083779,
+      "association_strength": 1.634555
+    },
+    {
+      "source": "BPKH_Governance",
+      "target": "Public_Trust_Reputation",
+      "cooccurrence_count": 175,
+      "cooccurrence_rate": 0.311943,
+      "association_strength": 1.584055
+    },
+    {
+      "source": "BPKH_Governance",
+      "target": "Corruption_Investigation",
+      "cooccurrence_count": 33,
+      "cooccurrence_rate": 0.058824,
+      "association_strength": 1.483057
+    },
+    {
+      "source": "Public_Trust_Reputation",
+      "target": "Quota_Governance",
+      "cooccurrence_count": 127,
+      "cooccurrence_rate": 0.226381,
+      "association_strength": 1.27795
+    },
+    {
+      "source": "Hajj_Fund_Management",
+      "target": "Quota_Governance",
+      "cooccurrence_count": 192,
+      "cooccurrence_rate": 0.342246,
+      "association_strength": 1.065812
+    },
+    {
+      "source": "Hajj_Fund_Management",
+      "target": "Public_Trust_Reputation",
+      "cooccurrence_count": 274,
+      "cooccurrence_rate": 0.488414,
+      "association_strength": 1.058789
+    },
+    {
+      "source": "BPKH_Governance",
+      "target": "Hajj_Fund_Management",
+      "cooccurrence_count": 209,
+      "cooccurrence_rate": 0.372549,
+      "association_strength": 1.043633
+    },
+    {
+      "source": "BPKH_Governance",
+      "target": "Quota_Governance",
+      "cooccurrence_count": 78,
+      "cooccurrence_rate": 0.139037,
+      "association_strength": 1.014255
+    },
+    {
+      "source": "Corruption_Investigation",
+      "target": "Hajj_Fund_Management",
+      "cooccurrence_count": 47,
+      "cooccurrence_rate": 0.083779,
+      "association_strength": 0.901713
+    }
+  ],
+  "contagion_events": [
+    {
+      "event_id": "E030",
+      "event_size": 13,
+      "document_contagion_score": 0.34731549,
+      "risk_dimensions": "Corruption_Investigation;Governance_Oversight;BPKH_Governance;Public_Trust_Reputation",
+      "crisis_validity_score": 0.3873239,
+      "bpkh_exposure_score": 0.3317389,
+      "public_trust_score": 0.32606328,
+      "response_score": 0.20354877,
+      "mitigation_score": 0.37652162
+    },
+    {
+      "event_id": "E028",
+      "event_size": 1,
+      "document_contagion_score": 0.29958171,
+      "risk_dimensions": "Corruption_Investigation;Public_Trust_Reputation;Hajj_Fund_Management;Quota_Governance",
+      "crisis_validity_score": 0.35449192,
+      "bpkh_exposure_score": 0.23759368,
+      "public_trust_score": 0.3192307,
+      "response_score": 0.03500387,
+      "mitigation_score": 0.39917594
+    },
+    {
+      "event_id": "E044",
+      "event_size": 6,
+      "document_contagion_score": 0.27100348,
+      "risk_dimensions": "Hajj_Fund_Management;Public_Trust_Reputation;Quota_Governance;BPKH_Governance",
+      "crisis_validity_score": 0.16291507,
+      "bpkh_exposure_score": 0.39974952,
+      "public_trust_score": 0.30561548,
+      "response_score": 0.08830707,
+      "mitigation_score": 0.46776664
+    },
+    {
+      "event_id": "E024",
+      "event_size": 21,
+      "document_contagion_score": 0.26420379,
+      "risk_dimensions": "Hajj_Fund_Management;Public_Trust_Reputation;BPKH_Governance;Corruption_Investigation",
+      "crisis_validity_score": 0.15286301,
+      "bpkh_exposure_score": 0.3603336,
+      "public_trust_score": 0.334819,
+      "response_score": 0.09251371,
+      "mitigation_score": 0.5245702
+    },
+    {
+      "event_id": "E026",
+      "event_size": 3,
+      "document_contagion_score": 0.2639848,
+      "risk_dimensions": "BPKH_Governance;Corruption_Investigation;Public_Trust_Reputation;Hajj_Fund_Management",
+      "crisis_validity_score": 0.2220933,
+      "bpkh_exposure_score": 0.3241627,
+      "public_trust_score": 0.25552794,
+      "response_score": 0.07575995,
+      "mitigation_score": 0.4322477
+    },
+    {
+      "event_id": "E034",
+      "event_size": 6,
+      "document_contagion_score": 0.23285647,
+      "risk_dimensions": "Quota_Governance;Hajj_Fund_Management;Public_Trust_Reputation",
+      "crisis_validity_score": 0.15918796,
+      "bpkh_exposure_score": 0.28439415,
+      "public_trust_score": 0.27889073,
+      "response_score": 0.04133105,
+      "mitigation_score": 0.3549814
+    },
+    {
+      "event_id": "E042",
+      "event_size": 5,
+      "document_contagion_score": 0.22952186,
+      "risk_dimensions": "Hajj_Fund_Management;Quota_Governance;Public_Trust_Reputation;BPKH_Governance",
+      "crisis_validity_score": 0.14060447,
+      "bpkh_exposure_score": 0.4295175,
+      "public_trust_score": 0.20021296,
+      "response_score": 0.07859433,
+      "mitigation_score": 0.46866545
+    },
+    {
+      "event_id": "E031",
+      "event_size": 4,
+      "document_contagion_score": 0.21820566,
+      "risk_dimensions": "Hajj_Fund_Management;Public_Trust_Reputation;BPKH_Governance;Quota_Governance",
+      "crisis_validity_score": 0.0982618,
+      "bpkh_exposure_score": 0.38475168,
+      "public_trust_score": 0.27481014,
+      "response_score": 0.05806488,
+      "mitigation_score": 0.58172697
+    },
+    {
+      "event_id": "E020",
+      "event_size": 3,
+      "document_contagion_score": 0.21686244,
+      "risk_dimensions": "Public_Trust_Reputation;Hajj_Fund_Management;BPKH_Governance;Corruption_Investigation",
+      "crisis_validity_score": 0.1137026,
+      "bpkh_exposure_score": 0.28995928,
+      "public_trust_score": 0.30934677,
+      "response_score": 0.04620823,
+      "mitigation_score": 0.49157792
+    },
+    {
+      "event_id": "E033",
+      "event_size": 2,
+      "document_contagion_score": 0.20972682,
+      "risk_dimensions": "Public_Trust_Reputation",
+      "crisis_validity_score": 0.11744025,
+      "bpkh_exposure_score": 0.21957508,
+      "public_trust_score": 0.35773543,
+      "response_score": 0.03172748,
+      "mitigation_score": 0.45130706
+    },
+    {
+      "event_id": "E043",
+      "event_size": 14,
+      "document_contagion_score": 0.20451173,
+      "risk_dimensions": "Hajj_Fund_Management;Public_Trust_Reputation;Quota_Governance;BPKH_Governance",
+      "crisis_validity_score": 0.11650593,
+      "bpkh_exposure_score": 0.32414186,
+      "public_trust_score": 0.2265017,
+      "response_score": 0.0097934,
+      "mitigation_score": 0.47663742
+    },
+    {
+      "event_id": "E018",
+      "event_size": 1,
+      "document_contagion_score": 0.2026988,
+      "risk_dimensions": "Public_Trust_Reputation;Hajj_Fund_Management;BPKH_Governance",
+      "crisis_validity_score": 0.0793885,
+      "bpkh_exposure_score": 0.31873608,
+      "public_trust_score": 0.3291279,
+      "response_score": 0.01082911,
+      "mitigation_score": 0.5762121
+    },
+    {
+      "event_id": "E035",
+      "event_size": 19,
+      "document_contagion_score": 0.19192989,
+      "risk_dimensions": "Hajj_Fund_Management;Quota_Governance;BPKH_Governance;Public_Trust_Reputation",
+      "crisis_validity_score": 0.15168448,
+      "bpkh_exposure_score": 0.2897933,
+      "public_trust_score": 0.16084158,
+      "response_score": 0.08924329,
+      "mitigation_score": 0.36350667
+    },
+    {
+      "event_id": "E003",
+      "event_size": 2,
+      "document_contagion_score": 0.18665393,
+      "risk_dimensions": "Hajj_Fund_Management;Public_Trust_Reputation;Quota_Governance;BPKH_Governance",
+      "crisis_validity_score": 0.10962075,
+      "bpkh_exposure_score": 0.2658819,
+      "public_trust_score": 0.22311556,
+      "response_score": 0.00979015,
+      "mitigation_score": 0.2914365
+    },
+    {
+      "event_id": "E037",
+      "event_size": 3,
+      "document_contagion_score": 0.18622129,
+      "risk_dimensions": "Corruption_Investigation;Hajj_Fund_Management",
+      "crisis_validity_score": 0.15003657,
+      "bpkh_exposure_score": 0.23669194,
+      "public_trust_score": 0.18184753,
+      "response_score": 0.0,
+      "mitigation_score": 0.31750774
+    },
+    {
+      "event_id": "E036",
+      "event_size": 2,
+      "document_contagion_score": 0.18422887,
+      "risk_dimensions": "Corruption_Investigation",
+      "crisis_validity_score": 0.25078753,
+      "bpkh_exposure_score": 0.1422053,
+      "public_trust_score": 0.17532802,
+      "response_score": 0.0,
+      "mitigation_score": 0.22036807
+    },
+    {
+      "event_id": "E019",
+      "event_size": 1,
+      "document_contagion_score": 0.18268079,
+      "risk_dimensions": "Hajj_Fund_Management",
+      "crisis_validity_score": 0.0975803,
+      "bpkh_exposure_score": 0.3080237,
+      "public_trust_score": 0.20283008,
+      "response_score": 0.08437112,
+      "mitigation_score": 0.4433909
+    },
+    {
+      "event_id": "E006",
+      "event_size": 3,
+      "document_contagion_score": 0.18098733,
+      "risk_dimensions": "Hajj_Fund_Management;Public_Trust_Reputation;Quota_Governance",
+      "crisis_validity_score": 0.07871205,
+      "bpkh_exposure_score": 0.36273113,
+      "public_trust_score": 0.20764354,
+      "response_score": 0.0,
+      "mitigation_score": 0.5112493
+    },
+    {
+      "event_id": "E005",
+      "event_size": 6,
+      "document_contagion_score": 0.17528513,
+      "risk_dimensions": "Corruption_Investigation;Public_Trust_Reputation;Hajj_Fund_Management;BPKH_Governance",
+      "crisis_validity_score": 0.15705012,
+      "bpkh_exposure_score": 0.18273085,
+      "public_trust_score": 0.18766579,
+      "response_score": 0.0,
+      "mitigation_score": 0.27314162
+    },
+    {
+      "event_id": "E045",
+      "event_size": 14,
+      "document_contagion_score": 0.17113166,
+      "risk_dimensions": "Hajj_Fund_Management;Quota_Governance;Public_Trust_Reputation",
+      "crisis_validity_score": 0.12517986,
+      "bpkh_exposure_score": 0.2434732,
+      "public_trust_score": 0.16443923,
+      "response_score": 0.07516572,
+      "mitigation_score": 0.28917736
+    }
+  ],
+  "lag_analysis": [
+    {
+      "relationship": "External_Crisis_t-0 -> BPKH_Exposure_t",
+      "lag_months": 0,
+      "target": "BPKH_Exposure",
+      "n": 33,
+      "pearson_r": 0.309
+    },
+    {
+      "relationship": "External_Crisis_t-1 -> BPKH_Exposure_t",
+      "lag_months": 1,
+      "target": "BPKH_Exposure",
+      "n": 32,
+      "pearson_r": 0.243
+    },
+    {
+      "relationship": "External_Crisis_t-2 -> BPKH_Exposure_t",
+      "lag_months": 2,
+      "target": "BPKH_Exposure",
+      "n": 31,
+      "pearson_r": 0.215
+    },
+    {
+      "relationship": "External_Crisis_t-3 -> BPKH_Exposure_t",
+      "lag_months": 3,
+      "target": "BPKH_Exposure",
+      "n": 30,
+      "pearson_r": 0.106
+    },
+    {
+      "relationship": "External_Crisis_t-0 -> Public_Trust_t",
+      "lag_months": 0,
+      "target": "Public_Trust",
+      "n": 33,
+      "pearson_r": 0.791
+    },
+    {
+      "relationship": "External_Crisis_t-1 -> Public_Trust_t",
+      "lag_months": 1,
+      "target": "Public_Trust",
+      "n": 32,
+      "pearson_r": 0.789
+    },
+    {
+      "relationship": "External_Crisis_t-2 -> Public_Trust_t",
+      "lag_months": 2,
+      "target": "Public_Trust",
+      "n": 31,
+      "pearson_r": 0.764
+    },
+    {
+      "relationship": "External_Crisis_t-3 -> Public_Trust_t",
+      "lag_months": 3,
+      "target": "Public_Trust",
+      "n": 30,
+      "pearson_r": 0.74
+    },
+    {
+      "relationship": "External_Crisis_t-0 -> GCI_t",
+      "lag_months": 0,
+      "target": "GCI",
+      "n": 33,
+      "pearson_r": 0.859
+    },
+    {
+      "relationship": "External_Crisis_t-1 -> GCI_t",
+      "lag_months": 1,
+      "target": "GCI",
+      "n": 32,
+      "pearson_r": 0.844
+    },
+    {
+      "relationship": "External_Crisis_t-2 -> GCI_t",
+      "lag_months": 2,
+      "target": "GCI",
+      "n": 31,
+      "pearson_r": 0.826
+    },
+    {
+      "relationship": "External_Crisis_t-3 -> GCI_t",
+      "lag_months": 3,
+      "target": "GCI",
+      "n": 30,
+      "pearson_r": 0.803
+    }
+  ]
+}
